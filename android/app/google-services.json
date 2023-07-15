@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "686052122428",
+    "project_id": "notes-anurag-yt",
+    "storage_bucket": "notes-anurag-yt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686052122428:android:213db067ee85f29db04839",
+        "android_client_info": {
+          "package_name": "com.anurag.notesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686052122428-uq693iu0j8ctbokn4ldj00ju516esr9l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhakrLB_IdwIam6yW5GpptdvYkf4CsdJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686052122428-uq693iu0j8ctbokn4ldj00ju516esr9l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
